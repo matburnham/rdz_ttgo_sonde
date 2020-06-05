@@ -1,23 +1,19 @@
 # Frequency in Mhz (format nnn.nnn)
 # Type (4=RS41, 6=DFM normal, DFM-06, 9=DFM inverted, DFM-09)
 #
-402.300 4 + Greifswald
-402.500 4 - Schleswig
-402.700 4 + HH-Sasel
-403.000 4 - DeBilt
-404.100 4 + Norderney
-404.300 4 - Schleswig_2
-404.500 4 - Meppen
-404.700 4 - Greifswald_2
-405.100 4 - Lindenberg
-405.700 4 + Bergen
-405.900 4 + Bergen_2
-405.100 4 + Meppen_2
-405.300 4 - Essen
-403.330 9 - TrUebPl
-403.450 9 - TrUebPl
-403.470 9 - TrUebPl
-403.850 9 - TrUebPl
-403.870 9 - TrUebPl
-403.890 9 - TrUebPl
+# Sonde frequencies for UK, noted 2020-06-05
+# Als see http://radiosonde.eu/RS02/RS02J.html but seem to change
+#
+404.200 4 + Watnall/Castor_Bay
+404.800 4 + Herstmonceux
+405.600 4 + Albemarle
+# xxx.xxx 4 + Camborne
+# xxx.xxx 4 + Lerwick
+#
+# Cardington deploys intermittenly, these noted on 2020-06-01
+402.500 4 + Cardington1
+403.000 4 + Cardington2
+403.500 4 + Cardington3
+403.750 4 + Cardington4
+404.500 4 + Cardington5
 # end
