@@ -8,3 +8,9 @@ It was drawn up in Fusion 360 based on the [Fusion 360 Snap Fit Cases | 3D-Print
 It is by no means perfect, but does the job.
 
 See also https://www.thingiverse.com/thing:4460498
+
+![Render](render.jpg)
+
+![Printed](printed.jpg)
+
+![Built](built.jpg)
