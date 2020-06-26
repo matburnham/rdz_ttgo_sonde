@@ -1,8 +1,9 @@
 # Frequency in Mhz (format nnn.nnn)
 # Type (4=RS41, 6=DFM normal, DFM-06, 9=DFM inverted, DFM-09)
 #
-# Sonde frequencies for UK, noted 2020-06-05
-# Als see http://radiosonde.eu/RS02/RS02J.html but seem to change
+# Sonde frequencies for UK noted 2020-06-05, also see:
+# * https://ukhas.org.uk/frontpage:radiosondes
+# * http://radiosonde.eu/RS02/RS02J.html but seem to change
 #
 404.200 4 + Watnall/Castor_Bay
 404.800 4 + Herstmonceux
