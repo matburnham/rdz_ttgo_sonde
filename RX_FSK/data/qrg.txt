@@ -6,6 +6,8 @@
 # * http://radiosonde.eu/RS02/RS02J.html but seem to change
 #
 404.200 4 + Watnall/Castor_Bay
+# Watnall seen 2020-07-14
+405.200 4 + Watnall 2
 404.800 4 + Herstmonceux
 405.600 4 + Albemarle
 # xxx.xxx 4 + Camborne
